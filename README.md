@@ -1,4 +1,3 @@
-# bot
 # Integrantes do Grupo:
 Breno de Souza, Juliana Hall, Maria Mello e Carol Cruz
 
